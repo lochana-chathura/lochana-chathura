@@ -1,5 +1,5 @@
 <h2> Hi, I'm Lochana Chathura! <img src="https://media.giphy.com/media/fx5E5RjtqBltDFKEO9/giphy.gif" width="50"></h2>
-<p><em>Software Enginner at <a href="https://github.com/wso2">WSO2</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>ENTC Graduate from <a href="https://uom.lk/efac">University of Moratuwa</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
+<p><em>Senior Software Enginner at <a href="https://github.com/wso2">WSO2</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>ENTC Graduate from <a href="https://uom.lk/efac">University of Moratuwa</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: lochana-chathura](https://img.shields.io/badge/-Lochana_Chathura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lochana-chathura/)](https://www.linkedin.com/in/lochana-chathura/)
